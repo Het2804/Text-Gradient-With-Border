@@ -1,0 +1,16 @@
+h1{
+     
+    border: solid  ;
+    border-width: 0px 0px 7px 7px;
+    inline-size: 15%;
+    margin: 40%;
+    padding: 0.5%;
+    border-color: purple red;
+    
+
+    
+    
+    background-image: linear-gradient(90deg, red,orange,yellow,green,blue,indigo,violet);
+    -webkit-background-clip: text ;
+    -webkit-text-fill-color: transparent 
+}
